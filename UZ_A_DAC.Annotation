@@ -1,0 +1,21 @@
+[DesignatorManager]
+LogicalDesignator0=
+LogicalPartID0=1
+DocumentName0=DAC_Reference.SchDoc
+ChannelName0=DAC_Reference
+UniqueID0=\LXRAEXSY\DZTAYYWN
+PhysicalDesignator0=R11
+PhysicalDesignatorLocked0=1
+LogicalDesignator1=
+LogicalPartID1=1
+DocumentName1=DAC_Reference.SchDoc
+ChannelName1=DAC_Reference
+UniqueID1=\LXRAEXSY\JTXIUQQY
+PhysicalDesignator1=R12
+PhysicalDesignatorLocked1=1
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+

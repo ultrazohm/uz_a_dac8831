@@ -1,0 +1,2468 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component$ChannelAlpha
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+OutputPath=Project Outputs for UZ_A_DAC
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=THS
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Power_Pos.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=3
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=ANVSCQVT
+
+[Document2]
+DocumentPath=Top Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=ERPGLQGF
+
+[Document3]
+DocumentPath=FPGA Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=2
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=VKPOGBRJ
+
+[Document4]
+DocumentPath=Power_Neg.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=4
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=OSUMGVBY
+
+[Document5]
+DocumentPath=DAC_Reference.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=5
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=CDKLKBHH
+
+[Document6]
+DocumentPath=OpAmp_Channnels.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=8
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=GRTLCYUJ
+
+[Document7]
+DocumentPath=Ethernet_Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=9
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=OXVXBCYL
+
+[Document8]
+DocumentPath=DAC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=10
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=FVCICVFM
+
+[Document9]
+DocumentPath=LVDS_Receiver_Data.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=6
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=HJKKXDPM
+
+[Document10]
+DocumentPath=FPGA Connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=LVDS_Receiver_Data.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=DAC.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IIRDZODD
+
+[Document13]
+DocumentPath=LVDS_Receiver_CVN_CLK.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=7
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=1
+DocumentUniqueId=LTKYHNXF
+
+[Document14]
+DocumentPath=UZ_A_DAC.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FYLURJCR
+
+[Document15]
+DocumentPath=UltraZohm_ADC.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XHTMPVYP
+
+[Document16]
+DocumentPath=UZohmADC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=UZ_A_DAC.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=UZ_A_DAC.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=..\..\..\Altium\altium_libraries\templates\output_jobs\UZ_Outputjob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=AD0C44BA-E1FE-49F0-AA24-428AC43EF292
+Description=FPGA Variant
+AllowFabrication=0
+ParameterCount=0
+VariationCount=20
+Variation1=Designator=R6|UniqueId=\WLJTHFSA\EIUCXPBJ|Kind=1|AlternatePart= 
+Variation2=Designator=R12_OpAmp1|UniqueId=\1PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation3=Designator=R12_OpAmp2|UniqueId=\2PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation4=Designator=R12_OpAmp3|UniqueId=\3PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation5=Designator=R12_OpAmp4|UniqueId=\4PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation6=Designator=R12_OpAmp5|UniqueId=\5PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation7=Designator=R12_OpAmp6|UniqueId=\6PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation8=Designator=R12_OpAmp7|UniqueId=\7PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation9=Designator=R12_OpAmp8|UniqueId=\8PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation10=Designator=R24_OpAmp1|UniqueId=\1PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation11=Designator=R24_OpAmp2|UniqueId=\2PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation12=Designator=R24_OpAmp3|UniqueId=\3PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation13=Designator=R24_OpAmp4|UniqueId=\4PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation14=Designator=R24_OpAmp5|UniqueId=\5PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation15=Designator=R24_OpAmp6|UniqueId=\6PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation16=Designator=R24_OpAmp7|UniqueId=\7PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation17=Designator=R24_OpAmp8|UniqueId=\8PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation18=Designator=R8|UniqueId=\WLJTHFSA\YUQRXMWL|Kind=1|AlternatePart= 
+Variation19=Designator=R?|UniqueId=\LXRAEXSY\JTXIUQQY|Kind=0|AlternatePart= 
+Variation20=Designator=R?|UniqueId=\LXRAEXSY\DZTAYYWN|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueID=28CC60DB-3864-4B08-9CB7-FAE131090790
+Description=No THS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=141
+Variation1=Designator=R34_OpAmp1|UniqueId=\1PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation2=Designator=R34_OpAmp2|UniqueId=\2PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation3=Designator=R34_OpAmp3|UniqueId=\3PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation4=Designator=R34_OpAmp4|UniqueId=\4PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation5=Designator=R34_OpAmp5|UniqueId=\5PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation6=Designator=R34_OpAmp6|UniqueId=\6PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation7=Designator=R34_OpAmp7|UniqueId=\7PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation8=Designator=R34_OpAmp8|UniqueId=\8PREFKLXI\UDWFTBMA|Kind=1|AlternatePart= 
+Variation9=Designator=R42_OpAmp8|UniqueId=\8PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation10=Designator=R42_OpAmp7|UniqueId=\7PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation11=Designator=R42_OpAmp6|UniqueId=\6PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation12=Designator=R42_OpAmp5|UniqueId=\5PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation13=Designator=R42_OpAmp4|UniqueId=\4PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation14=Designator=R42_OpAmp3|UniqueId=\3PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation15=Designator=R42_OpAmp2|UniqueId=\2PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation16=Designator=R42_OpAmp1|UniqueId=\1PREFKLXI\UEJXPPWT|Kind=1|AlternatePart= 
+Variation17=Designator=R41|UniqueId=\TBRMBVYV\YDMSGXNH|Kind=0|AlternatePart= 
+Variation18=Designator=R25_OpAmp1|UniqueId=\1PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation19=Designator=R25_OpAmp2|UniqueId=\2PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation20=Designator=R25_OpAmp3|UniqueId=\3PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation21=Designator=R25_OpAmp4|UniqueId=\4PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation22=Designator=R25_OpAmp5|UniqueId=\5PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation23=Designator=R25_OpAmp6|UniqueId=\6PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation24=Designator=R25_OpAmp7|UniqueId=\7PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation25=Designator=R25_OpAmp8|UniqueId=\8PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation26=Designator=R39_OpAmp1|UniqueId=\1PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation27=Designator=R39_OpAmp2|UniqueId=\2PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation28=Designator=R39_OpAmp3|UniqueId=\3PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation29=Designator=R39_OpAmp4|UniqueId=\4PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation30=Designator=R39_OpAmp5|UniqueId=\5PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation31=Designator=R39_OpAmp6|UniqueId=\6PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation32=Designator=R39_OpAmp7|UniqueId=\7PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation33=Designator=R39_OpAmp8|UniqueId=\8PREFKLXI\RRRJXEFJ|Kind=1|AlternatePart= 
+Variation34=Designator=R38_OpAmp8|UniqueId=\8PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation35=Designator=R38_OpAmp6|UniqueId=\6PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation36=Designator=R38_OpAmp7|UniqueId=\7PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation37=Designator=R38_OpAmp5|UniqueId=\5PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation38=Designator=R38_OpAmp4|UniqueId=\4PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation39=Designator=R38_OpAmp3|UniqueId=\3PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation40=Designator=R38_OpAmp2|UniqueId=\2PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation41=Designator=R38_OpAmp1|UniqueId=\1PREFKLXI\MGPJNPJW|Kind=1|AlternatePart= 
+Variation42=Designator=C39_OpAmp1|UniqueId=\1PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation43=Designator=C39_OpAmp2|UniqueId=\2PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation44=Designator=C39_OpAmp3|UniqueId=\3PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation45=Designator=C39_OpAmp4|UniqueId=\4PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation46=Designator=C39_OpAmp5|UniqueId=\5PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation47=Designator=C39_OpAmp6|UniqueId=\6PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation48=Designator=C39_OpAmp7|UniqueId=\7PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation49=Designator=C39_OpAmp8|UniqueId=\8PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation50=Designator=C48_OpAmp1|UniqueId=\1PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation51=Designator=C48_OpAmp2|UniqueId=\2PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation52=Designator=C48_OpAmp3|UniqueId=\3PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation53=Designator=C48_OpAmp4|UniqueId=\4PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation54=Designator=C48_OpAmp5|UniqueId=\5PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation55=Designator=C48_OpAmp6|UniqueId=\6PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation56=Designator=C48_OpAmp7|UniqueId=\7PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation57=Designator=C48_OpAmp8|UniqueId=\8PREFKLXI\XXUTMORR|Kind=0|AlternatePart= 
+Variation58=Designator=C55_OpAmp1|UniqueId=\1PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation59=Designator=C55_OpAmp2|UniqueId=\2PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation60=Designator=C55_OpAmp3|UniqueId=\3PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation61=Designator=C55_OpAmp4|UniqueId=\4PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation62=Designator=C55_OpAmp5|UniqueId=\5PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation63=Designator=C55_OpAmp6|UniqueId=\6PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation64=Designator=C55_OpAmp7|UniqueId=\7PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation65=Designator=C55_OpAmp8|UniqueId=\8PREFKLXI\WLHYWWAH|Kind=1|AlternatePart= 
+Variation66=Designator=C54_OpAmp1|UniqueId=\1PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation67=Designator=C54_OpAmp2|UniqueId=\2PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation68=Designator=C54_OpAmp3|UniqueId=\3PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation69=Designator=C54_OpAmp4|UniqueId=\4PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation70=Designator=C54_OpAmp5|UniqueId=\5PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation71=Designator=C54_OpAmp6|UniqueId=\6PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation72=Designator=C54_OpAmp7|UniqueId=\7PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation73=Designator=C54_OpAmp8|UniqueId=\8PREFKLXI\VQQPNUYP|Kind=0|AlternatePart= 
+Variation74=Designator=TP11_OpAmp1|UniqueId=\1PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation75=Designator=TP11_OpAmp2|UniqueId=\2PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation76=Designator=TP11_OpAmp3|UniqueId=\3PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation77=Designator=TP11_OpAmp4|UniqueId=\4PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation78=Designator=TP11_OpAmp5|UniqueId=\5PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation79=Designator=TP11_OpAmp6|UniqueId=\6PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation80=Designator=TP11_OpAmp7|UniqueId=\7PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation81=Designator=TP11_OpAmp8|UniqueId=\8PREFKLXI\PMIDVPST|Kind=0|AlternatePart= 
+Variation82=Designator=R6|UniqueId=\WLJTHFSA\EIUCXPBJ|Kind=1|AlternatePart= 
+Variation83=Designator=R8|UniqueId=\WLJTHFSA\YUQRXMWL|Kind=1|AlternatePart= 
+Variation84=Designator=R4|UniqueId=\QAXHRWWJ\HDELRSXK|Kind=1|AlternatePart= 
+Variation85=Designator=R5|UniqueId=\QAXHRWWJ\HMBZOGAY|Kind=1|AlternatePart= 
+Variation86=Designator=R3|UniqueId=\WLJTHFSA\PFPCPVZV|Kind=1|AlternatePart= 
+Variation87=Designator=U9_OpAmp8|UniqueId=\8PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation88=Designator=U9_OpAmp1|UniqueId=\1PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation89=Designator=U9_OpAmp2|UniqueId=\2PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation90=Designator=U9_OpAmp3|UniqueId=\3PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation91=Designator=U9_OpAmp4|UniqueId=\4PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation92=Designator=U9_OpAmp5|UniqueId=\5PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation93=Designator=U9_OpAmp6|UniqueId=\6PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation94=Designator=U9_OpAmp7|UniqueId=\7PREFKLXI\SWIGQWXM|Kind=1|AlternatePart= 
+Variation95=Designator=R31_OpAmp8|UniqueId=\8PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation96=Designator=R40_OpAmp8|UniqueId=\8PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation97=Designator=R31_OpAmp7|UniqueId=\7PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation98=Designator=R40_OpAmp7|UniqueId=\7PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation99=Designator=R31_OpAmp6|UniqueId=\6PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation100=Designator=R40_OpAmp6|UniqueId=\6PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation101=Designator=R31_OpAmp5|UniqueId=\5PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation102=Designator=R40_OpAmp5|UniqueId=\5PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation103=Designator=R31_OpAmp4|UniqueId=\4PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation104=Designator=R40_OpAmp4|UniqueId=\4PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation105=Designator=R31_OpAmp3|UniqueId=\3PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation106=Designator=R40_OpAmp3|UniqueId=\3PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation107=Designator=R31_OpAmp2|UniqueId=\2PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation108=Designator=R40_OpAmp2|UniqueId=\2PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation109=Designator=R31_OpAmp1|UniqueId=\1PREFKLXI\XSVJIUAO|Kind=1|AlternatePart= 
+Variation110=Designator=R40_OpAmp1|UniqueId=\1PREFKLXI\PVUBEJLL|Kind=1|AlternatePart= 
+Variation111=Designator=C58_OpAmp1|UniqueId=\1PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation112=Designator=C56_OpAmp1|UniqueId=\1PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation113=Designator=C58_OpAmp2|UniqueId=\2PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation114=Designator=C56_OpAmp2|UniqueId=\2PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation115=Designator=C58_OpAmp3|UniqueId=\3PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation116=Designator=C56_OpAmp3|UniqueId=\3PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation117=Designator=C58_OpAmp4|UniqueId=\4PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation118=Designator=C56_OpAmp4|UniqueId=\4PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation119=Designator=C56_OpAmp5|UniqueId=\5PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation120=Designator=C58_OpAmp5|UniqueId=\5PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation121=Designator=C56_OpAmp6|UniqueId=\6PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation122=Designator=C58_OpAmp6|UniqueId=\6PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation123=Designator=C56_OpAmp7|UniqueId=\7PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation124=Designator=C58_OpAmp7|UniqueId=\7PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation125=Designator=C56_OpAmp8|UniqueId=\8PREFKLXI\VSJRSRBP|Kind=1|AlternatePart= 
+Variation126=Designator=C58_OpAmp8|UniqueId=\8PREFKLXI\JMLGUPNL|Kind=1|AlternatePart= 
+Variation127=Designator=C57_OpAmp8|UniqueId=\8PREFKLXI\FWYECNPH|Kind=0|AlternatePart= 
+Variation128=Designator=R23|UniqueId=\AKELDMCD\YDKREMNZ|Kind=1|AlternatePart= 
+Variation129=Designator=C33|UniqueId=\AKELDMCD\KKNOTUVB|Kind=1|AlternatePart= 
+Variation130=Designator=C17|UniqueId=\AKELDMCD\WWLVKZXM|Kind=1|AlternatePart= 
+Variation131=Designator=L2|UniqueId=\AKELDMCD\PGQDJBBZ|Kind=1|AlternatePart= 
+Variation132=Designator=L3|UniqueId=\AKELDMCD\QGKPNRPN|Kind=1|AlternatePart= 
+Variation133=Designator=C44|UniqueId=\AKELDMCD\KVHZDSCG|Kind=1|AlternatePart= 
+Variation134=Designator=R17|UniqueId=\AKELDMCD\NTUWKXOK|Kind=1|AlternatePart= 
+Variation135=Designator=C405|UniqueId=\AKELDMCD\DATHAFIA|Kind=1|AlternatePart= 
+Variation136=Designator=C401|UniqueId=\AKELDMCD\ZCQWHRLX|Kind=1|AlternatePart= 
+Variation137=Designator=R30A|UniqueId=\1PREFKLXI\BAOOIQGN|Kind=0|AlternatePart= 
+Variation138=Designator=R31A|UniqueId=\1PREFKLXI\IJPCLJJK|Kind=0|AlternatePart= 
+Variation139=Designator=R?|UniqueId=\LXRAEXSY\UTTSJCAU|Kind=1|AlternatePart= 
+Variation140=Designator=R?|UniqueId=\LXRAEXSY\DJYCRWZO|Kind=1|AlternatePart= 
+Variation141=Designator=R?|UniqueId=\LXRAEXSY\JTXIUQQY|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueID=52640E4F-A337-450C-BC95-1912BBEA8546
+Description=THS
+AllowFabrication=0
+ParameterCount=0
+VariationCount=18
+Variation1=Designator=R24_OpAmp1|UniqueId=\1PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation2=Designator=R24_OpAmp2|UniqueId=\2PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation3=Designator=R24_OpAmp3|UniqueId=\3PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation4=Designator=R24_OpAmp4|UniqueId=\4PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation5=Designator=R24_OpAmp5|UniqueId=\5PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation6=Designator=R24_OpAmp6|UniqueId=\6PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation7=Designator=R24_OpAmp7|UniqueId=\7PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation8=Designator=R24_OpAmp8|UniqueId=\8PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation9=Designator=R12_OpAmp1|UniqueId=\1PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation10=Designator=R12_OpAmp2|UniqueId=\2PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation11=Designator=R12_OpAmp3|UniqueId=\3PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation12=Designator=R12_OpAmp4|UniqueId=\4PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation13=Designator=R12_OpAmp5|UniqueId=\5PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation14=Designator=R12_OpAmp6|UniqueId=\6PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation15=Designator=R12_OpAmp7|UniqueId=\7PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation16=Designator=R12_OpAmp8|UniqueId=\8PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation17=Designator=R6|UniqueId=\WLJTHFSA\EIUCXPBJ|Kind=1|AlternatePart= 
+Variation18=Designator=R8|UniqueId=\WLJTHFSA\YUQRXMWL|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueID=F079E880-0E7B-455F-9EF6-FFEF35622AC6
+Description=Single Ended OpAmp
+AllowFabrication=0
+ParameterCount=0
+VariationCount=42
+Variation1=Designator=R34_OpAmp1|UniqueId=\1PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=R34_OpAmp1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R34_OpAmp1
+ParamVariation3=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator3=R34_OpAmp1
+ParamVariation4=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator4=R34_OpAmp1
+ParamVariation5=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator5=R34_OpAmp1
+ParamVariation6=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator6=R34_OpAmp1
+ParamVariation7=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator7=R34_OpAmp1
+ParamVariation8=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator8=R34_OpAmp1
+ParamVariation9=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator9=R34_OpAmp1
+ParamVariation10=ParameterName=Device Package|VariantValue=0603
+ParamDesignator10=R34_OpAmp1
+ParamVariation11=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator11=R34_OpAmp1
+ParamVariation12=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator12=R34_OpAmp1
+ParamVariation13=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator13=R34_OpAmp1
+ParamVariation14=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator14=R34_OpAmp1
+ParamVariation15=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator15=R34_OpAmp1
+ParamVariation16=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator16=R34_OpAmp1
+ParamVariation17=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator17=R34_OpAmp1
+ParamVariation18=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator18=R34_OpAmp1
+ParamVariation19=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator19=R34_OpAmp1
+ParamVariation20=ParameterName=PartID|VariantValue=1
+ParamDesignator20=R34_OpAmp1
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=R34_OpAmp1
+ParamVariation22=ParameterName=Pin Info|VariantValue= 
+ParamDesignator22=R34_OpAmp1
+ParamVariation23=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator23=R34_OpAmp1
+ParamVariation24=ParameterName=Simulation|VariantValue= 
+ParamDesignator24=R34_OpAmp1
+ParamVariation25=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator25=R34_OpAmp1
+ParamVariation26=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator26=R34_OpAmp1
+ParamVariation27=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator27=R34_OpAmp1
+ParamVariation28=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator28=R34_OpAmp1
+ParamVariation29=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator29=R34_OpAmp1
+ParamVariation30=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator30=R34_OpAmp1
+ParamVariation31=ParameterName=Type|VariantValue=Resistor
+ParamDesignator31=R34_OpAmp1
+ParamVariation32=ParameterName=Value|VariantValue=0R
+ParamDesignator32=R34_OpAmp1
+Variation2=Designator=R34_OpAmp2|UniqueId=\2PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation33=ParameterName=Comment|VariantValue==Value
+ParamDesignator33=R34_OpAmp2
+ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator34=R34_OpAmp2
+ParamVariation35=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator35=R34_OpAmp2
+ParamVariation36=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator36=R34_OpAmp2
+ParamVariation37=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator37=R34_OpAmp2
+ParamVariation38=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator38=R34_OpAmp2
+ParamVariation39=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator39=R34_OpAmp2
+ParamVariation40=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator40=R34_OpAmp2
+ParamVariation41=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator41=R34_OpAmp2
+ParamVariation42=ParameterName=Device Package|VariantValue=0603
+ParamDesignator42=R34_OpAmp2
+ParamVariation43=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator43=R34_OpAmp2
+ParamVariation44=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator44=R34_OpAmp2
+ParamVariation45=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator45=R34_OpAmp2
+ParamVariation46=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator46=R34_OpAmp2
+ParamVariation47=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator47=R34_OpAmp2
+ParamVariation48=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator48=R34_OpAmp2
+ParamVariation49=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator49=R34_OpAmp2
+ParamVariation50=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator50=R34_OpAmp2
+ParamVariation51=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator51=R34_OpAmp2
+ParamVariation52=ParameterName=PartID|VariantValue=1
+ParamDesignator52=R34_OpAmp2
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
+ParamDesignator53=R34_OpAmp2
+ParamVariation54=ParameterName=Pin Info|VariantValue= 
+ParamDesignator54=R34_OpAmp2
+ParamVariation55=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator55=R34_OpAmp2
+ParamVariation56=ParameterName=Simulation|VariantValue= 
+ParamDesignator56=R34_OpAmp2
+ParamVariation57=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator57=R34_OpAmp2
+ParamVariation58=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator58=R34_OpAmp2
+ParamVariation59=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator59=R34_OpAmp2
+ParamVariation60=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator60=R34_OpAmp2
+ParamVariation61=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator61=R34_OpAmp2
+ParamVariation62=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator62=R34_OpAmp2
+ParamVariation63=ParameterName=Type|VariantValue=Resistor
+ParamDesignator63=R34_OpAmp2
+ParamVariation64=ParameterName=Value|VariantValue=0R
+ParamDesignator64=R34_OpAmp2
+Variation3=Designator=R34_OpAmp3|UniqueId=\3PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation65=ParameterName=Comment|VariantValue==Value
+ParamDesignator65=R34_OpAmp3
+ParamVariation66=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator66=R34_OpAmp3
+ParamVariation67=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator67=R34_OpAmp3
+ParamVariation68=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator68=R34_OpAmp3
+ParamVariation69=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator69=R34_OpAmp3
+ParamVariation70=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator70=R34_OpAmp3
+ParamVariation71=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator71=R34_OpAmp3
+ParamVariation72=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator72=R34_OpAmp3
+ParamVariation73=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator73=R34_OpAmp3
+ParamVariation74=ParameterName=Device Package|VariantValue=0603
+ParamDesignator74=R34_OpAmp3
+ParamVariation75=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator75=R34_OpAmp3
+ParamVariation76=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator76=R34_OpAmp3
+ParamVariation77=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator77=R34_OpAmp3
+ParamVariation78=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator78=R34_OpAmp3
+ParamVariation79=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator79=R34_OpAmp3
+ParamVariation80=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator80=R34_OpAmp3
+ParamVariation81=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator81=R34_OpAmp3
+ParamVariation82=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator82=R34_OpAmp3
+ParamVariation83=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator83=R34_OpAmp3
+ParamVariation84=ParameterName=PartID|VariantValue=1
+ParamDesignator84=R34_OpAmp3
+ParamVariation85=ParameterName=PCB3D|VariantValue= 
+ParamDesignator85=R34_OpAmp3
+ParamVariation86=ParameterName=Pin Info|VariantValue= 
+ParamDesignator86=R34_OpAmp3
+ParamVariation87=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator87=R34_OpAmp3
+ParamVariation88=ParameterName=Simulation|VariantValue= 
+ParamDesignator88=R34_OpAmp3
+ParamVariation89=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator89=R34_OpAmp3
+ParamVariation90=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator90=R34_OpAmp3
+ParamVariation91=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator91=R34_OpAmp3
+ParamVariation92=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator92=R34_OpAmp3
+ParamVariation93=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator93=R34_OpAmp3
+ParamVariation94=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator94=R34_OpAmp3
+ParamVariation95=ParameterName=Type|VariantValue=Resistor
+ParamDesignator95=R34_OpAmp3
+ParamVariation96=ParameterName=Value|VariantValue=0R
+ParamDesignator96=R34_OpAmp3
+Variation4=Designator=R34_OpAmp4|UniqueId=\4PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation97=ParameterName=Comment|VariantValue==Value
+ParamDesignator97=R34_OpAmp4
+ParamVariation98=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator98=R34_OpAmp4
+ParamVariation99=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator99=R34_OpAmp4
+ParamVariation100=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator100=R34_OpAmp4
+ParamVariation101=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator101=R34_OpAmp4
+ParamVariation102=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator102=R34_OpAmp4
+ParamVariation103=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator103=R34_OpAmp4
+ParamVariation104=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator104=R34_OpAmp4
+ParamVariation105=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator105=R34_OpAmp4
+ParamVariation106=ParameterName=Device Package|VariantValue=0603
+ParamDesignator106=R34_OpAmp4
+ParamVariation107=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator107=R34_OpAmp4
+ParamVariation108=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator108=R34_OpAmp4
+ParamVariation109=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator109=R34_OpAmp4
+ParamVariation110=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator110=R34_OpAmp4
+ParamVariation111=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator111=R34_OpAmp4
+ParamVariation112=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator112=R34_OpAmp4
+ParamVariation113=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator113=R34_OpAmp4
+ParamVariation114=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator114=R34_OpAmp4
+ParamVariation115=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator115=R34_OpAmp4
+ParamVariation116=ParameterName=PartID|VariantValue=1
+ParamDesignator116=R34_OpAmp4
+ParamVariation117=ParameterName=PCB3D|VariantValue= 
+ParamDesignator117=R34_OpAmp4
+ParamVariation118=ParameterName=Pin Info|VariantValue= 
+ParamDesignator118=R34_OpAmp4
+ParamVariation119=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator119=R34_OpAmp4
+ParamVariation120=ParameterName=Simulation|VariantValue= 
+ParamDesignator120=R34_OpAmp4
+ParamVariation121=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator121=R34_OpAmp4
+ParamVariation122=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator122=R34_OpAmp4
+ParamVariation123=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator123=R34_OpAmp4
+ParamVariation124=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator124=R34_OpAmp4
+ParamVariation125=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator125=R34_OpAmp4
+ParamVariation126=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator126=R34_OpAmp4
+ParamVariation127=ParameterName=Type|VariantValue=Resistor
+ParamDesignator127=R34_OpAmp4
+ParamVariation128=ParameterName=Value|VariantValue=0R
+ParamDesignator128=R34_OpAmp4
+Variation5=Designator=R34_OpAmp5|UniqueId=\5PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation129=ParameterName=Comment|VariantValue==Value
+ParamDesignator129=R34_OpAmp5
+ParamVariation130=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator130=R34_OpAmp5
+ParamVariation131=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator131=R34_OpAmp5
+ParamVariation132=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator132=R34_OpAmp5
+ParamVariation133=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator133=R34_OpAmp5
+ParamVariation134=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator134=R34_OpAmp5
+ParamVariation135=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator135=R34_OpAmp5
+ParamVariation136=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator136=R34_OpAmp5
+ParamVariation137=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator137=R34_OpAmp5
+ParamVariation138=ParameterName=Device Package|VariantValue=0603
+ParamDesignator138=R34_OpAmp5
+ParamVariation139=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator139=R34_OpAmp5
+ParamVariation140=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator140=R34_OpAmp5
+ParamVariation141=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator141=R34_OpAmp5
+ParamVariation142=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator142=R34_OpAmp5
+ParamVariation143=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator143=R34_OpAmp5
+ParamVariation144=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator144=R34_OpAmp5
+ParamVariation145=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator145=R34_OpAmp5
+ParamVariation146=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator146=R34_OpAmp5
+ParamVariation147=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator147=R34_OpAmp5
+ParamVariation148=ParameterName=PartID|VariantValue=1
+ParamDesignator148=R34_OpAmp5
+ParamVariation149=ParameterName=PCB3D|VariantValue= 
+ParamDesignator149=R34_OpAmp5
+ParamVariation150=ParameterName=Pin Info|VariantValue= 
+ParamDesignator150=R34_OpAmp5
+ParamVariation151=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator151=R34_OpAmp5
+ParamVariation152=ParameterName=Simulation|VariantValue= 
+ParamDesignator152=R34_OpAmp5
+ParamVariation153=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator153=R34_OpAmp5
+ParamVariation154=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator154=R34_OpAmp5
+ParamVariation155=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator155=R34_OpAmp5
+ParamVariation156=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator156=R34_OpAmp5
+ParamVariation157=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator157=R34_OpAmp5
+ParamVariation158=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator158=R34_OpAmp5
+ParamVariation159=ParameterName=Type|VariantValue=Resistor
+ParamDesignator159=R34_OpAmp5
+ParamVariation160=ParameterName=Value|VariantValue=0R
+ParamDesignator160=R34_OpAmp5
+Variation6=Designator=R34_OpAmp6|UniqueId=\6PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation161=ParameterName=Comment|VariantValue==Value
+ParamDesignator161=R34_OpAmp6
+ParamVariation162=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator162=R34_OpAmp6
+ParamVariation163=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator163=R34_OpAmp6
+ParamVariation164=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator164=R34_OpAmp6
+ParamVariation165=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator165=R34_OpAmp6
+ParamVariation166=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator166=R34_OpAmp6
+ParamVariation167=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator167=R34_OpAmp6
+ParamVariation168=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator168=R34_OpAmp6
+ParamVariation169=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator169=R34_OpAmp6
+ParamVariation170=ParameterName=Device Package|VariantValue=0603
+ParamDesignator170=R34_OpAmp6
+ParamVariation171=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator171=R34_OpAmp6
+ParamVariation172=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator172=R34_OpAmp6
+ParamVariation173=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator173=R34_OpAmp6
+ParamVariation174=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator174=R34_OpAmp6
+ParamVariation175=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator175=R34_OpAmp6
+ParamVariation176=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator176=R34_OpAmp6
+ParamVariation177=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator177=R34_OpAmp6
+ParamVariation178=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator178=R34_OpAmp6
+ParamVariation179=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator179=R34_OpAmp6
+ParamVariation180=ParameterName=PartID|VariantValue=1
+ParamDesignator180=R34_OpAmp6
+ParamVariation181=ParameterName=PCB3D|VariantValue= 
+ParamDesignator181=R34_OpAmp6
+ParamVariation182=ParameterName=Pin Info|VariantValue= 
+ParamDesignator182=R34_OpAmp6
+ParamVariation183=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator183=R34_OpAmp6
+ParamVariation184=ParameterName=Simulation|VariantValue= 
+ParamDesignator184=R34_OpAmp6
+ParamVariation185=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator185=R34_OpAmp6
+ParamVariation186=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator186=R34_OpAmp6
+ParamVariation187=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator187=R34_OpAmp6
+ParamVariation188=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator188=R34_OpAmp6
+ParamVariation189=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator189=R34_OpAmp6
+ParamVariation190=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator190=R34_OpAmp6
+ParamVariation191=ParameterName=Type|VariantValue=Resistor
+ParamDesignator191=R34_OpAmp6
+ParamVariation192=ParameterName=Value|VariantValue=0R
+ParamDesignator192=R34_OpAmp6
+Variation7=Designator=R34_OpAmp7|UniqueId=\7PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation193=ParameterName=Comment|VariantValue==Value
+ParamDesignator193=R34_OpAmp7
+ParamVariation194=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator194=R34_OpAmp7
+ParamVariation195=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator195=R34_OpAmp7
+ParamVariation196=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator196=R34_OpAmp7
+ParamVariation197=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator197=R34_OpAmp7
+ParamVariation198=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator198=R34_OpAmp7
+ParamVariation199=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator199=R34_OpAmp7
+ParamVariation200=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator200=R34_OpAmp7
+ParamVariation201=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator201=R34_OpAmp7
+ParamVariation202=ParameterName=Device Package|VariantValue=0603
+ParamDesignator202=R34_OpAmp7
+ParamVariation203=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator203=R34_OpAmp7
+ParamVariation204=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator204=R34_OpAmp7
+ParamVariation205=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator205=R34_OpAmp7
+ParamVariation206=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator206=R34_OpAmp7
+ParamVariation207=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator207=R34_OpAmp7
+ParamVariation208=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator208=R34_OpAmp7
+ParamVariation209=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator209=R34_OpAmp7
+ParamVariation210=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator210=R34_OpAmp7
+ParamVariation211=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator211=R34_OpAmp7
+ParamVariation212=ParameterName=PartID|VariantValue=1
+ParamDesignator212=R34_OpAmp7
+ParamVariation213=ParameterName=PCB3D|VariantValue= 
+ParamDesignator213=R34_OpAmp7
+ParamVariation214=ParameterName=Pin Info|VariantValue= 
+ParamDesignator214=R34_OpAmp7
+ParamVariation215=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator215=R34_OpAmp7
+ParamVariation216=ParameterName=Simulation|VariantValue= 
+ParamDesignator216=R34_OpAmp7
+ParamVariation217=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator217=R34_OpAmp7
+ParamVariation218=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator218=R34_OpAmp7
+ParamVariation219=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator219=R34_OpAmp7
+ParamVariation220=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator220=R34_OpAmp7
+ParamVariation221=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator221=R34_OpAmp7
+ParamVariation222=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator222=R34_OpAmp7
+ParamVariation223=ParameterName=Type|VariantValue=Resistor
+ParamDesignator223=R34_OpAmp7
+ParamVariation224=ParameterName=Value|VariantValue=0R
+ParamDesignator224=R34_OpAmp7
+Variation8=Designator=R34_OpAmp8|UniqueId=\8PREFKLXI\UDWFTBMA|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\michi\Documents\ELSYS\Altium\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603JR-070RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0603_1608|AltLibLink_IsSameFootprint=True
+ParamVariation225=ParameterName=Comment|VariantValue==Value
+ParamDesignator225=R34_OpAmp8
+ParamVariation226=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator226=R34_OpAmp8
+ParamVariation227=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator227=R34_OpAmp8
+ParamVariation228=ParameterName=ComponentLink1URL|VariantValue=https://www.mouser.de/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+ParamDesignator228=R34_OpAmp8
+ParamVariation229=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator229=R34_OpAmp8
+ParamVariation230=ParameterName=Created from|VariantValue=MGremer
+ParamDesignator230=R34_OpAmp8
+ParamVariation231=ParameterName=Created On|VariantValue=14.12.2020 16:17:14
+ParamDesignator231=R34_OpAmp8
+ParamVariation232=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator232=R34_OpAmp8
+ParamVariation233=ParameterName=Description|VariantValue=SMD resistor E24 series
+ParamDesignator233=R34_OpAmp8
+ParamVariation234=ParameterName=Device Package|VariantValue=0603
+ParamDesignator234=R34_OpAmp8
+ParamVariation235=ParameterName=Footprint|VariantValue=RES 0603_1608
+ParamDesignator235=R34_OpAmp8
+ParamVariation236=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator236=R34_OpAmp8
+ParamVariation237=ParameterName=Last Updated|VariantValue=04.03.2021 09:09:42
+ParamDesignator237=R34_OpAmp8
+ParamVariation238=ParameterName=LCSC Part Number|VariantValue=C21189
+ParamDesignator238=R34_OpAmp8
+ParamVariation239=ParameterName=Library Reference|VariantValue=RC0603JR-070RL
+ParamDesignator239=R34_OpAmp8
+ParamVariation240=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator240=R34_OpAmp8
+ParamVariation241=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator241=R34_OpAmp8
+ParamVariation242=ParameterName=Manufacturer Part Number|VariantValue=RC0603JR-070RL
+ParamDesignator242=R34_OpAmp8
+ParamVariation243=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator243=R34_OpAmp8
+ParamVariation244=ParameterName=PartID|VariantValue=1
+ParamDesignator244=R34_OpAmp8
+ParamVariation245=ParameterName=PCB3D|VariantValue= 
+ParamDesignator245=R34_OpAmp8
+ParamVariation246=ParameterName=Pin Info|VariantValue= 
+ParamDesignator246=R34_OpAmp8
+ParamVariation247=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator247=R34_OpAmp8
+ParamVariation248=ParameterName=Simulation|VariantValue= 
+ParamDesignator248=R34_OpAmp8
+ParamVariation249=ParameterName=Stock number|VariantValue=Labor SMD Container
+ParamDesignator249=R34_OpAmp8
+ParamVariation250=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator250=R34_OpAmp8
+ParamVariation251=ParameterName=Supplier 2|VariantValue=LCSC
+ParamDesignator251=R34_OpAmp8
+ParamVariation252=ParameterName=Supplier Part Number 1|VariantValue=603-RC0603JR-070RL
+ParamDesignator252=R34_OpAmp8
+ParamVariation253=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator253=R34_OpAmp8
+ParamVariation254=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator254=R34_OpAmp8
+ParamVariation255=ParameterName=Type|VariantValue=Resistor
+ParamDesignator255=R34_OpAmp8
+ParamVariation256=ParameterName=Value|VariantValue=0R
+ParamDesignator256=R34_OpAmp8
+Variation9=Designator=R24_OpAmp8|UniqueId=\8PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation10=Designator=R24_OpAmp7|UniqueId=\7PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation11=Designator=R24_OpAmp6|UniqueId=\6PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation12=Designator=R24_OpAmp5|UniqueId=\5PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation13=Designator=R24_OpAmp4|UniqueId=\4PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation14=Designator=R24_OpAmp3|UniqueId=\3PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation15=Designator=R24_OpAmp2|UniqueId=\2PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation16=Designator=R24_OpAmp1|UniqueId=\1PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
+Variation17=Designator=R12_OpAmp1|UniqueId=\1PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation18=Designator=R12_OpAmp2|UniqueId=\2PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation19=Designator=R12_OpAmp3|UniqueId=\3PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation20=Designator=R12_OpAmp4|UniqueId=\4PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation21=Designator=R12_OpAmp5|UniqueId=\5PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation22=Designator=R12_OpAmp6|UniqueId=\6PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation23=Designator=R12_OpAmp7|UniqueId=\7PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation24=Designator=R12_OpAmp8|UniqueId=\8PREFKLXI\CRZSMEMB|Kind=1|AlternatePart= 
+Variation25=Designator=R6|UniqueId=\WLJTHFSA\EIUCXPBJ|Kind=1|AlternatePart= 
+Variation26=Designator=R25_OpAmp1|UniqueId=\1PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation27=Designator=R25_OpAmp2|UniqueId=\2PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation28=Designator=R25_OpAmp3|UniqueId=\3PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation29=Designator=R25_OpAmp4|UniqueId=\4PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation30=Designator=R25_OpAmp5|UniqueId=\5PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation31=Designator=R25_OpAmp6|UniqueId=\6PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation32=Designator=R25_OpAmp7|UniqueId=\7PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation33=Designator=R25_OpAmp8|UniqueId=\8PREFKLXI\IDMIIZEM|Kind=1|AlternatePart= 
+Variation34=Designator=C39_OpAmp8|UniqueId=\8PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation35=Designator=C39_OpAmp7|UniqueId=\7PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation36=Designator=C39_OpAmp6|UniqueId=\6PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation37=Designator=C39_OpAmp5|UniqueId=\5PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation38=Designator=C39_OpAmp4|UniqueId=\4PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation39=Designator=C39_OpAmp3|UniqueId=\3PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation40=Designator=C39_OpAmp2|UniqueId=\2PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation41=Designator=C39_OpAmp1|UniqueId=\1PREFKLXI\XSLNCQOF|Kind=1|AlternatePart= 
+Variation42=Designator=TP800A|UniqueId=\1PREFKLXI\PMIDVPST|Kind=1|AlternatePart= 
+ParamVariationCount=256
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_A_DAC\Rev00\BOM\BOM_UZ_A_DAC_[No Variations]_Rev00.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for UZ_A_DAC\ProjectRevision\Pick Place\Pick_and_Place_UZ_A_DAC_[No Variations]_Rev01.csv
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Author
+Value=M. Hlatky
+
+[Parameter2]
+Name=AuthorParam
+Value=M. Hlatky
+
+[Parameter3]
+Name=ProjectAuthor
+Value=M. Hlatky
+
+[Parameter4]
+Name=ProjectName
+Value=UZ_A_DAC
+
+[Parameter5]
+Name=ProjectRevision
+Value=Rev01
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for UZ_A_DAC
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|SourceLibraryName=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|SourceLibraryName=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Adobe PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+UniqueIDPath0=\6YYUSKYEP
+DocumentName0=DAC.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=6
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=\4PREFKLXI
+DocumentName1=OpAmp_Channnels.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=18
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=\6PREFKLXI
+DocumentName2=OpAmp_Channnels.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=20
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=\WLJTHFSA
+DocumentName3=FPGA Connector.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=11
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=\7PREFKLXI
+DocumentName4=OpAmp_Channnels.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=21
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=\2PREFKLXI
+DocumentName5=OpAmp_Channnels.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=16
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=\5YYUSKYEP
+DocumentName6=DAC.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=5
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=\3PREFKLXI
+DocumentName7=OpAmp_Channnels.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=17
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=\7YYUSKYEP
+DocumentName8=DAC.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=7
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=\QAXHRWWJ
+DocumentName9=Power_Pos.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=24
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=\LXRAEXSY
+DocumentName10=DAC_Reference.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=9
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=\2YYUSKYEP
+DocumentName11=DAC.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=2
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=\4YYUSKYEP
+DocumentName12=DAC.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=4
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\1YYUSKYEP
+DocumentName13=DAC.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=1
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=\SZNQKRPC
+DocumentName14=Ethernet_Connector.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=10
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
+UniqueIDPath15=\PXYYCDUZ
+DocumentName15=LVDS_Receiver_CVN_CLK.SchDoc
+IsEnabled15=1
+SelectionScope15=All
+Order15=13
+IndexEnabled15=0
+IndexStartValue15=1
+Suffix15=
+UniqueIDPath16=\3YYUSKYEP
+DocumentName16=DAC.SchDoc
+IsEnabled16=1
+SelectionScope16=All
+Order16=3
+IndexEnabled16=0
+IndexStartValue16=1
+Suffix16=
+UniqueIDPath17=\TBRMBVYV
+DocumentName17=LVDS_Receiver_Data.SchDoc
+IsEnabled17=1
+SelectionScope17=All
+Order17=14
+IndexEnabled17=0
+IndexStartValue17=1
+Suffix17=
+UniqueIDPath18=\SYLUSCKR
+DocumentName18=Issuelog.SchDoc
+IsEnabled18=1
+SelectionScope18=All
+Order18=12
+IndexEnabled18=0
+IndexStartValue18=1
+Suffix18=
+UniqueIDPath19=\1PREFKLXI
+DocumentName19=OpAmp_Channnels.SchDoc
+IsEnabled19=1
+SelectionScope19=All
+Order19=15
+IndexEnabled19=0
+IndexStartValue19=1
+Suffix19=
+UniqueIDPath20=\8YYUSKYEP
+DocumentName20=DAC.SchDoc
+IsEnabled20=1
+SelectionScope20=All
+Order20=8
+IndexEnabled20=0
+IndexStartValue20=1
+Suffix20=
+UniqueIDPath21=\5PREFKLXI
+DocumentName21=OpAmp_Channnels.SchDoc
+IsEnabled21=1
+SelectionScope21=All
+Order21=19
+IndexEnabled21=0
+IndexStartValue21=1
+Suffix21=
+UniqueIDPath22=
+DocumentName22=Top Sheet.SchDoc
+IsEnabled22=1
+SelectionScope22=All
+Order22=25
+IndexEnabled22=0
+IndexStartValue22=1
+Suffix22=
+UniqueIDPath23=\8PREFKLXI
+DocumentName23=OpAmp_Channnels.SchDoc
+IsEnabled23=1
+SelectionScope23=All
+Order23=22
+IndexEnabled23=0
+IndexStartValue23=1
+Suffix23=
+UniqueIDPath24=\AKELDMCD
+DocumentName24=Power_Neg.SchDoc
+IsEnabled24=1
+SelectionScope24=All
+Order24=23
+IndexEnabled24=0
+IndexStartValue24=1
+Suffix24=
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=1
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=user.DbLib/DAC
+ComponentDesignItemID0=LM5007MM/NOPB
+ComponentSymbolReference0=LM5007
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Component Type
+ParameterUpdate2=1
+ParameterName3=ComponentLink1Description
+ParameterUpdate3=1
+ParameterName4=ComponentLink1URL
+ParameterUpdate4=1
+ParameterName5=Created from
+ParameterUpdate5=1
+ParameterName6=Created On
+ParameterUpdate6=1
+ParameterName7=Description
+ParameterUpdate7=1
+ParameterName8=Last Updated
+ParameterUpdate8=1
+ParameterName9=Library Reference
+ParameterUpdate9=1
+ParameterName10=Live Cycle Status
+ParameterUpdate10=1
+ParameterName11=Manufacturer
+ParameterUpdate11=1
+ParameterName12=Manufacturer Part Number
+ParameterUpdate12=1
+ParameterName13=MF
+ParameterUpdate13=1
+ParameterName14=Mounting Type
+ParameterUpdate14=1
+ParameterName15=MPN
+ParameterUpdate15=1
+ParameterName16=Operating Temperature
+ParameterUpdate16=1
+ParameterName17=Package
+ParameterUpdate17=1
+ParameterName18=PartID
+ParameterUpdate18=1
+ParameterName19=Supplier 1
+ParameterUpdate19=1
+ParameterName20=Supplier 2
+ParameterUpdate20=1
+ParameterName21=Supplier 3
+ParameterUpdate21=1
+ParameterName22=Supplier Part Number 1
+ParameterUpdate22=1
+ParameterName23=Supplier Part Number 2
+ParameterUpdate23=1
+ParameterName24=Supplier Part Number 3
+ParameterUpdate24=1
+ParameterName25=Type
+ParameterUpdate25=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=TSOP65P490X110-8N
+ModelUpdate0=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [UZ_A_DAC.PcbDoc]
+   Generated File[UZ_A_DAC_[No Variations]_Rev00.TXT]
+   Generated File[UZ_A_DAC_[No Variations]_Rev00.LDP]
+   Generated File[UZ_A_DAC_[No Variations]_Rev00.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:43:19 On 25.03.2022

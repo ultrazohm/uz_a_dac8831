@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: UZ_A_DAC_[No Variations]_Rev01.GBR   20.04.2022  10:44:58
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 GND                                     
+.G2                 Power                                   
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GM1                Board Shape                             
+.GM2                Dimensions                              
+.GM3                Mechanical 3                            
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM6                Mechanical 6                            
+.GM9                Top Courtyard                           
+.GM10               Bottom Courtyard                        
+.GM11               Top Assembly                            
+.GM12               Bottom Assembly                         
+.GM13               Mechanical 13                           
+.GM14               Top Component Center                    
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM17               Bottom Component Center                 
+.GM18               Top Designator                          
+.GM19               Bottom Designator                       
+.GM20               Top Value                               
+.GM21               Bottom Value                            
+.GM22               Top 3D Body                             
+.GM23               Bottom 3D Body                          
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------

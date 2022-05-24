@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_A_DAC.PcbDoc   04.05.2022  09:43:16
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_A_DAC_THS_Rev01.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             47        PTH        11.73inch (297.98mm)
+T2      12mil (0.3mm)                                             Round             344       PTH        69.83inch (1773.60mm)
+T3      35mil (0.899mm)                                           Round             16        PTH        1.66inch (42.20mm)
+T4      40mil (1.016mm)                                           Round             16        PTH        1.50inch (38.10mm)
+T5      40mil (1.021mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T6      63mil (1.6mm)                                             Round             2         PTH        1.26inch (32.00mm)
+T7      128mil (3.251mm)                                          Round             2         NPTH       1.12inch (28.45mm)
+T8      134mil (3.401mm)        +/-3mil (0.076mm)                 Round             2         NPTH       3.55inch (90.07mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              431
+
+Total Processing Time (hh:mm:ss) : 00:00:00
