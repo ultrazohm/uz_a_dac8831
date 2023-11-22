@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [UZ_A_DAC.PcbDoc]
-   Generated File[UZ_A_DAC_THS_Rev01.TXT]
-   Generated File[UZ_A_DAC_THS_Rev01.LDP]
-   Generated File[UZ_A_DAC_THS_Rev01.DRR]
+Output: BOM_JLC
+Type  : BOM
+From  : Variant [THS] of Project [UZ_A_DAC.PrjPcb]
+   Generated File[BOM_JLC-UZ_A_DAC(THS).xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 09:43:16 On 04.05.2022
+Finished Output Generation At 14:25:58 On 24.10.2023
