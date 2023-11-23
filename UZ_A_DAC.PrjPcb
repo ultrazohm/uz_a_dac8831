@@ -555,7 +555,7 @@ UniqueID=52640E4F-A337-450C-BC95-1912BBEA8546
 Description=THS
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
+VariationCount=31
 Variation1=Designator=R24_OpAmp1|UniqueId=\1PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
 Variation2=Designator=R24_OpAmp2|UniqueId=\2PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
 Variation3=Designator=R24_OpAmp3|UniqueId=\3PREFKLXI\RMOERIFI|Kind=1|AlternatePart= 
@@ -586,6 +586,7 @@ Variation27=Designator=R17|UniqueId=\AKELDMCD\YDKREMNZ|Kind=1|AlternatePart=
 Variation28=Designator=C57|UniqueId=\SZNQKRPC\HMEJBVHR|Kind=1|AlternatePart= 
 Variation29=Designator=R39|UniqueId=\SZNQKRPC\QFOUNWNV|Kind=1|AlternatePart= 
 Variation30=Designator=R?|UniqueId=\WLJTHFSA\CENITVMI|Kind=1|AlternatePart= 
+Variation31=Designator=R80|UniqueId=\WLJTHFSA\ASIVFEBP|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant4]
