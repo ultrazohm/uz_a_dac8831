@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [THS] of PCB Document [UZ_A_DAC.PcbDoc]
+   Generated File[Pick Place for UZ_A_DAC(THS).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:50:54 On 23.11.2023

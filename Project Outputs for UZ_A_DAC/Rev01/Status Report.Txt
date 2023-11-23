@@ -1,10 +1,10 @@
-Output: BOM_JLC
-Type  : BOM
-From  : Variant [THS] of Project [UZ_A_DAC.PrjPcb]
-   Generated File[BOM_JLC-UZ_A_DAC(THS).xlsx]
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [THS] of PCB Document [UZ_A_DAC.PcbDoc]
+   Generated File[Pick Place for UZ_A_DAC(THS).csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:25:58 On 24.10.2023
+Finished Output Generation At 10:21:39 On 23.11.2023

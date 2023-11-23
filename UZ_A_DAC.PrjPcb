@@ -1156,32 +1156,36 @@ DocumentPath=Project Outputs for UZ_A_DAC\Rev00\BOM\BOM_UZ_A_DAC_[No Variations]
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UZ_A_DAC\ProjectRevision\Pick Place\Pick_and_Place_UZ_A_DAC_[No Variations]_Rev01.csv
+DocumentPath=Project Outputs for UZ_A_DAC\Design Rule Check - UZ_A_DAC.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for UZ_A_DAC\ProjectRevision\Pick Place\Pick_and_Place_UZ_A_DAC_[No Variations]_Rev01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for UZ_A_DAC\Pick Place\PickPlace_UZ_A_DAC_Rev01.csv
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=M. Hlatky
+Name=ProjectRevision
+Value=Rev02
 
 [Parameter2]
-Name=AuthorParam
-Value=M. Hlatky
+Name=ProjectName
+Value=UZ_A_DAC
 
 [Parameter3]
 Name=ProjectAuthor
 Value=M. Hlatky
 
 [Parameter4]
-Name=ProjectName
-Value=UZ_A_DAC
+Name=AuthorParam
+Value=M. Hlatky
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=M. Hlatky
 
 [Configuration1]
 Name=Sources
